@@ -65,6 +65,9 @@ h3 {
         width: 90%;
         height: 100vh;
     }
+    .nav-lnk {
+font-size: 0.8rem;
+}
 
     .main {
         height: 41.4vh;
@@ -72,6 +75,6 @@ h3 {
     }
 
     h3 {
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
 }
